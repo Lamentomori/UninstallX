@@ -1,7 +1,9 @@
 # UninstallX 🚀
 Application Management Solution Tailored to those that find Control Panel to be Bloated/Distracting.
 
-<center>![UninstallX Banner](https://i.ibb.co/zhQSfSJ1/Uninstall-X-Banner.png)</center>
+<p align="center">
+  <img src="https://i.ibb.co/zhQSfSJ1/Uninstall-X-Banner.png" alt="UninstallX Banner">
+</p>
 
 > **Minimalist Application Uninstaller for Power Users**
 > Developed by CyberWatch, for efficient and clear application management.
