@@ -9,7 +9,7 @@ Application Management Solution Tailored to those that find Control Panel to be 
 > Developed by CyberWatch, for efficient and clear application management.
 
 [![GitHub License](https://img.shields.io/badge/License-GPL-blue.svg)](https://opensource.org/license/gpl-3-0)
-[![Build Status](https://img.shields.io/badge/.NET-4.8-blueviolet.svg)]()
+[![Build Status](https://img.shields.io/badge/.NET-9-blueviolet.svg)]()
 [![Platform](https://img.shields.io/badge/Platform-Windows_10%20%7C%20Windows_11-0078d7.svg)]()
 
 ## 🎯 Focus on What Matters: Clean Uninstalls
