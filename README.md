@@ -16,7 +16,7 @@ Application Management Solution Tailored to those that find Control Panel to be 
 
 UninstallX is made possible by CyberWatch for users who demand a straightforward and efficient way to remove applications. Ditch the rusty, dusty control panel and confusing yet useless applications. This tool provides a clean, focused experience for precise application management.
 
-![Application Screenshot](https://cyberwatch.cc/media/Uninstall.gif)
+![Application Screenshot](https://cyberwatch.cc/media/UninstallX.gif)
 
 ## ✨ Key Features
 
