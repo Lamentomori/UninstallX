@@ -1,0 +1,25 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net9.0-windows</TargetFramework>
+    <RootNamespace>UninstallX_Migrated</RootNamespace>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <UseWPF>true</UseWPF>
+    <ApplicationIcon>UninstallX.ico</ApplicationIcon>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="CyberWatch.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Include="UninstallX.ico" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="CyberWatch.png" />
+  </ItemGroup>
+
+</Project>
